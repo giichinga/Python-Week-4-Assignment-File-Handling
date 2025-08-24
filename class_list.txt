@@ -1,1 +1,6 @@
+Alice,A
+Bob,B
+Charlie,A
+David,C
+Eva,A
 
